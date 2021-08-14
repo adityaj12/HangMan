@@ -1,1 +1,2 @@
-# Classic Hang Man Game using Python
+# Classic Hang-Man Game 
+## Implemented with Python
